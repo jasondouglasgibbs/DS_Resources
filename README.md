@@ -6,10 +6,12 @@ This site contains references for various data science and programming related t
 [SymboLab](https://www.symbolab.com/) - General math help
 
 
-
-
-
 ## R Resources
+### Cheat Sheets
+[Base R Cheat Sheet](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)
+
+
+### Random Topics
 [Animated Data Visualizations](https://towardsdatascience.com/animating-your-data-visualizations-like-a-boss-using-r-f94ae20843e3)
 
 
