@@ -2,12 +2,11 @@
 This site contains references for various data science and programming related topics
 
 
-## Various Applications/References
-[IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio)
+## General Math/Statistics Resources
+[SymboLab](https://www.symbolab.com/) - General math help
 
-[Skills Network Labs](https://labs.cognitiveclass.ai/) - Jupyter Lab, R Studio IDE
 
-[GitHub Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
+
 
 
 ## R Resources
@@ -23,4 +22,12 @@ This site contains references for various data science and programming related t
 ## GitHub Resources
 [GitHub Desktop](https://desktop.github.com/)
 
+[GitHub Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
+
 [Atom Editor](https://atom.io/)
+
+
+## Various Applications/References
+[IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio)
+
+[Skills Network Labs](https://labs.cognitiveclass.ai/) - Jupyter Lab, R Studio IDE
