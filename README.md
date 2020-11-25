@@ -1,5 +1,5 @@
 # DS_Resources
-Resources for Data Science
+This site contains references for various data science and programming related topics
 
 
 ## Various Applications
