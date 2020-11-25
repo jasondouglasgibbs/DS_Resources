@@ -12,7 +12,7 @@ This site contains references for various data science and programming related t
 
 [R Studio Cheat Sheet Repository](https://rstudio.com/resources/cheatsheets/)
 
-###Data Visualization
+### Data Visualization
 [Histogram and Density Plots](http://www.cookbook-r.com/Graphs/Histogram_and_density_plot/) - Base R
 
 [Box Plot](http://www.cookbook-r.com/Graphs/Box_plot/) - Base R
