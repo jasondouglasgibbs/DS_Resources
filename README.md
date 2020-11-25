@@ -10,16 +10,8 @@ This site contains references for various data science and programming related t
 [GitHub Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
 
 
-## R Coding
-
-
-
-
-
-
-
-
-
+## R Resources
+[Animated Data Visualizations](https://towardsdatascience.com/animating-your-data-visualizations-like-a-boss-using-r-f94ae20843e3)
 
 
 
