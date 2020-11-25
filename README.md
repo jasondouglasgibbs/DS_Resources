@@ -12,7 +12,15 @@ This site contains references for various data science and programming related t
 
 [R Studio Cheat Sheet Repository](https://rstudio.com/resources/cheatsheets/)
 
-### Random Topics
+###Data Visualization
+[Histogram and Density Plots](http://www.cookbook-r.com/Graphs/Histogram_and_density_plot/) - Base R
+
+[Box Plot](http://www.cookbook-r.com/Graphs/Box_plot/) - Base R
+
+[Scatterplot](http://www.cookbook-r.com/Graphs/Scatterplot/) - Base R
+
+
+### Random Topics/Articles
 [Animated Data Visualizations](https://towardsdatascience.com/animating-your-data-visualizations-like-a-boss-using-r-f94ae20843e3)
 
 
