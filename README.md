@@ -30,4 +30,5 @@ This site contains references for various data science and programming related t
 
 ## GitHub Resources
 [GitHub Desktop](https://desktop.github.com/)
+
 [Atom Editor](https://atom.io/)
