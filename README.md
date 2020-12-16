@@ -4,8 +4,10 @@ This site contains references for various data science and programming related t
 
 ## My Links
 [My GitHub](https://github.com/jasondouglasgibbs)
+
 [My COVID-19 Analytics Repository](https://github.com/jasondouglasgibbs/COVID-19_Analytics)
 
+[My RStudio Server](http://69.143.207.151:8787/auth-sign-in)
 
 ## General Math/Statistics Resources
 [SymboLab](https://www.symbolab.com/) - General math help
