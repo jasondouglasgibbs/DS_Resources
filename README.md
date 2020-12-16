@@ -42,8 +42,7 @@ This site contains references for various data science and programming related t
 
 [Skills Network Labs](https://labs.cognitiveclass.ai/) - Jupyter Lab, R Studio IDE
 
-##Linux Links for RShiny/RStudio Server
-
+## Linux Links for RShiny/RStudio Server
 [RStudio Server Professional Admin Guide](https://docs.rstudio.com/ide/server-pro/)
 
 [Installing R, R packages, and RStudio on Ubuntu](https://blog.zenggyu.com/en/post/2018-01-29/installing-r-r-packages-e-g-tidyverse-and-rstudio-on-ubuntu-linux/)
