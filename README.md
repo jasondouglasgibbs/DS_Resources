@@ -1,5 +1,10 @@
-# DS_Resources
-This site contains references for various data science and programming related topics
+# Data Science Resources
+This site contains references for various data science and programming related topics.
+
+
+## My Links
+[My GitHub](https://github.com/jasondouglasgibbs)
+[My COVID-19 Analytics Repository](https://github.com/jasondouglasgibbs/COVID-19_Analytics)
 
 
 ## General Math/Statistics Resources
